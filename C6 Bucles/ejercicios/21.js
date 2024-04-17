@@ -6,4 +6,10 @@ function esPotenciaDeDos(numero) {
   // Tu código:
 }
 
+if(numero % 2 == 0){
+  return(true);
+}else {
+  return(false);
+}
+
 module.exports = esPotenciaDeDos;
