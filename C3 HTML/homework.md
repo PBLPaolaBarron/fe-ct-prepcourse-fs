@@ -1,4 +1,4 @@
-![HenryLogo](../assets/logoBannerHenry.png)
+F![HenryLogo](../assets/logoBannerHenry.png)
 
 # **HOMEWORK 03 | HTML**
 
